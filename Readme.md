@@ -21,3 +21,4 @@
 - Documentation is also attached.
 - Only the admin account is made. (username: 'admin', password: '12345')
 - Other accounts can be registered.
+- Project folder must in root of web server e.g. htdocs/php-vaccination/
